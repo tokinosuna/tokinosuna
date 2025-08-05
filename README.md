@@ -3,11 +3,19 @@
 # ˚₊‧꒰ა ☆ Tokinosuna's Digital Diary ☆ ໒꒱ ‧₊˚
 
 <p>
-  <code> C:\Users\SnakeSnake> <b>echo "Hello, World!" </b> </code> <br>
+  <code> C:\Users\SnakeSnake> <b> "Hello, World!" </b> </code> <br>
   A portal to my little corner of the internet. Welcome ♡
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNpdjN4Z2U1aWw3NXVwdXk2cnJ0bTNmZGpvc3c2a3hpdXhqem1xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9xtw95wDjd5u/giphy.gif" width="250"/>
+<img src="https://tokinosuna.github.io/musiclink/img/oxi_kamui_v1.webp" width="250"/>
+
+  ˖⁺. ༶  [此刻，我找到了你 (A Wonderful Way to Say Hello)] ˖⁺. ༶ 
+  
+ ∞:∞ ───✮─── 5:20
+ 
+   ↻     ⊲  Ⅱ  ⊳     ↺
+       
+Volume: ▁▂▃▄▅▆▇ 100%
 
 </div>
 
@@ -55,14 +63,19 @@
 ### ✨ Portals to Other Spaces (My Projects)
 
 ୨ ╭ ୨୧ ✦ ︶꒷꒦・⎯⎯・⎯⎯・₊ˎ✧๑ :love_letter:
+
 ┇・ :cherry_blossom: ❏ **[omoi-no-kakera](https://github.com/tokinosuna/omoi-no-kakera)**
 ┇ ` A gentle digital library to cherish the stories of everyday heroes. `
+
 ┇・ :baby_bottle: ❏ **[y2kprofilegenerator](https://github.com/tokinosuna/y2kprofilegenerator)**
 ┇ ` A time machine to the golden age of the internet! `
+
 ┇・ :rose: ❏ **[musiclink](https://github.com/tokinosuna/musiclink)**
 ┇ ` The prototype of my dream: connecting with characters through music. `
+
 ┇・ :rice_ball: ❏ **[solstice](https://github.com/tokinosuna/minimalist-editorial-web-design-solstice)**
 ┇ ` My personal portfolio. Proof that chaos can appreciate quiet beauty. `
+
 ୨ ╰ ✦ ・⎯⎯・⎯⎯・꒷꒦︶︶꒷︶꒦ ♡ˎˊ˗
 
 ---
